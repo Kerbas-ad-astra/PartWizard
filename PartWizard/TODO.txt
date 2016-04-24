@@ -1,0 +1,3 @@
+﻿* (linuxgurugamer) Add way to only display specific class of parts.
+* (linuxgurugamer) Add way to only display specific parts (by name).
+* (linuxgurugamer) Display parts with specific resource.
